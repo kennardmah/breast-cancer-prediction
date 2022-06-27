@@ -1,2 +1,2 @@
-# startup-success-rate
-using data science tools and machine learning models to predict the success rate for start-up companies
+# breast-cancer-prediction
+using data science tools and machine learning models to predict whether a tumor is benign or malignant
