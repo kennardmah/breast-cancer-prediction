@@ -1,0 +1,7 @@
+import pandas as pd
+
+df = pd.read_csv('kc_house_data.csv')
+meanPrice = df['price'].mean()
+print(meanPrice)
+stdPrice = df['price'].std()
+print(stdPrice)
